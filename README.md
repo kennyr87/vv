@@ -402,7 +402,7 @@ If your multisite network uses subdomains, you can include a blueprint-level key
         "force": false,
         "activate": true,
         "activate_network": false
-      },
+      }
     ],
     "demo_content": [
       "link::https://raw.githubusercontent.com/manovotny/wptest/master/wptest.xml"
